@@ -1,0 +1,8 @@
+$defaultColor:rgb(129, 36, 36);
+$defaultFontFamily:'Anonymous Pro','Consolas';
+.App{
+    h2{
+        font-family: $defaultFontFamily;
+        color:$defaultColor;
+    }
+}
